@@ -6,7 +6,6 @@
 <a href="https://www.facebook.com/profile.php?id=100005031976051">
   <img align="left" alt="Lakshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<br/>
 
 - 😊 I'm Lakshan Madhuranga. ICT undergraduate in UOK
 - 🔭 I’m currently working on ...SpringBoot, ReactJs, NodeJs
