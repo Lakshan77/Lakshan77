@@ -1,11 +1,19 @@
 # Hello World 👋
 
+<a href="https://www.linkedin.com/in/lakshan-madhuranga-26b218166/">
+  <img align="left" alt="Lakshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100005031976051">
+  <img align="left" alt="Lakshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<br/>
 
 - 😊 I'm Lakshan Madhuranga. ICT undergraduate in UOK
 - 🔭 I’m currently working on ...SpringBoot, ReactJs, NodeJs
 - 🌱 I’m currently learning ...SpringBoot, ReactJs, NodeJs, AWS
 - 🔍 My Blog https://lakshanmadhuranga77.medium.com/
 
+<br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="248" />
 
 ## &#x1f4c8; GitHub Stats
