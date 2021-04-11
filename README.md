@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/lakshan-madhuranga-26b218166/">
   <img align="left" alt="Lakshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br/>
 
 - 😊 I'm Lakshan Madhuranga. ICT undergraduate in UOK
 - 🔭 I’m currently working on ...SpringBoot, ReactJs, NodeJs
