@@ -27,9 +27,23 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="github" width="45" height="45"/> 
 </p>
 <br />
----
 
 ### Connect with me:
+---
+[<img align="left" alt="lakshan_mail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"  />][gmail]
+[<img align="left" alt="lakshanmadhuranga | LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" />][linkedin]
+[<img align="left" alt="lakshan.madhuranga" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" height="40" width="40" />][facebook]
+
+<br/>
+<br/>
+<br/>
+
 ## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshan77&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rukshan's GitHub Stats" />
+
+
+[gmail]: mailto:eng.lakshanmadhuranga77@gmail.com
+[facebook]: https://www.facebook.com/profile.php?id=100005031976051
+[linkedin]: https://linkedin.com/in/lakshanmadhuranga
+
