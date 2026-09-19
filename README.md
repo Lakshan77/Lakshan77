@@ -1,11 +1,14 @@
-# Hello World 👋
-
+# Hi, I'm Lakshan 👋
+### Software Engineer | AI & Cloud
 <br/>
 <br/>
 
-- 😊 I'm Lakshan Madhuranga. ICT undergraduate in UOK
-- 🔭 I’m currently working on ...SpringBoot, ReactJs, NodeJs
-- 🌱 I’m currently learning ...SpringBoot, ReactJs, NodeJs, AWS
+-I'm a Software Engineer with 2+ years of experience building and integrating
+enterprise-grade software solutions, backend services, cloud applications, and AI-powered systems.
+
+-I enjoy working across the software development lifecycle — from designing APIs and backend
+services to integrating cloud platforms, enterprise applications, and modern AI capabilities.
+
 - 🔍 My Blog https://lakshanmadhuranga77.medium.com/
 ### Languages and Tools:
 ---
